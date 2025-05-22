@@ -1,0 +1,4 @@
+name: ReBalancedCaps
+version: '1.0'
+main: me.reBalancedCaps.ReBalancedCaps
+api-version: '1.21'
